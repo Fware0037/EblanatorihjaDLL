@@ -1,4 +1,4 @@
-# EblanatorihjaDLL
+# EblanatorihjaDLL V1
 Simple Dynamic Link Library Injector,
 Run AS ADMIN!,
 IF IT CRASH, RUN AT ADMIN, OR CHOOSE CORRECT PROCESS!!!,
