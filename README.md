@@ -12,6 +12,7 @@ Config File
 $$$$$$$$$$$$$$$$$$$$$$$$$[Update INFO]$$$$$$$$$$$$$$$$$$$$$$$$$
 Added LoadLibary method
 Fixed Bugs
+Added Icon
 $$$$$$$$$$$$$$$$$$$$$$$$$[TO_DO]$$$$$$$$$$$$$$$$$$$$$$$$$
 New Desgin
 More functions
