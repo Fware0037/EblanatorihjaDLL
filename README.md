@@ -2,7 +2,7 @@
 Simple Dynamic Link Library Injector,
 Run AS ADMIN!,
 IF IT CRASH, RUN AT ADMIN, OR CHOOSE CORRECT PROCESS!!!,
-VirusTotal 6/74
+VirusTotal 9/73
 ![image](https://github.com/user-attachments/assets/7fca9fc5-e3d3-40b9-a874-709e91cd72be)
 
 Config File
